@@ -1,0 +1,19 @@
+<main class="create-container">
+    <form method="post" action="/create/submit" id="createForm">
+        <label for="seller">Seller Name:</label>
+        <input type="text" id="seller" name="seller">
+        <label for="productName">Product Name:</label>
+        <input type="text" id="productName" name="productName">
+        <label for="description">Description:</label>
+        <textarea id="description" name="description" form="createForm">Enter description here...</textarea>
+        <label for="price">Price:</label>
+        <input type="number" id="price" name="price">
+        <label for="numRemaining">Number of Products:</label>
+        <input type="number" id="numRemaining" name="numRemaining">
+        <label for="rating">Rating (will be found by server later):</label>
+        <input type="range" min="0" max="5" id="rating" name="rating">
+        <label for="imgSource">Product Image:</label>
+        <input type="url" id="imgSource" name="imgSource">
+        <input type="submit" value="Create Listing">
+    </form>
+</main>

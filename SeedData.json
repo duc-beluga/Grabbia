@@ -1,0 +1,108 @@
+[
+ {
+  "seller": "Jim",
+  "productName": "Bike",
+  "description": "A slightly used bike",
+  "price": "300",
+  "numRemaning": "1",
+  "rating": "4",
+  "imgSource": "https://www.rei.com/dam/content_team_080317_69661_hybrid_bikes_hero_lg.jpg",
+  "id": 0
+ },
+ {
+  "seller": "Mike",
+  "productName": "Dictionary",
+  "description": "An old dictionary",
+  "price": "10",
+  "numRemaning": "1",
+  "rating": "3.5",
+  "imgSource": "https://upload.wikimedia.org/wikipedia/en/e/e9/NewOED-2001-ed.jpg",
+  "id": 1
+ },
+ {
+  "seller": "Liz",
+  "productName": "Dressor",
+  "description": "A nearly new dressor",
+  "price": "250",
+  "numRemaning": "1",
+  "rating": "5",
+  "imgSource": "http://mobileimages.lowes.com/product/converted/066311/066311059540.jpg",
+  "id": 2
+ },
+ {
+  "seller": "Cindy",
+  "productName": "Ring",
+  "description": "An old ring from a pawn shop",
+  "price": "399",
+  "numRemaning": "1",
+  "rating": "5",
+  "imgSource": "https://cdn.theatlantic.com/thumbor/Qjvz9h3lp_WIK7Z_vihOcVC3eJI=/0x52:1029x631/720x405/media/img/mt/2015/02/DiamondRing/original.jpg",
+  "id": 3
+ },
+ {
+  "seller": "Becky",
+  "productName": "Chair",
+  "description": "A set of slightly worn kitchen stools",
+  "price": "50",
+  "numRemaning": "6",
+  "rating": "4.5",
+  "imgSource": "https://i5.walmartimages.com/asr/f0539dee-18ba-4642-bbce-c3599962d324_1.3196566acccb55bb8cfcda10cca0b03e.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff",
+  "id": 4
+ },
+ {
+  "seller": "Gary",
+  "productName": "Antique Phone",
+  "description": "A antique phone in mint condition",
+  "price": "500",
+  "numRemaning": "1",
+  "rating": "3",
+  "imgSource": "https://images-na.ssl-images-amazon.com/images/I/81J7sZUNI5L._AC_SL1500_.jpg",
+  "id": 5
+ },
+ {
+  "seller": "Quill",
+  "productName": "Shoes",
+  "description": "A pair of my old shoes I dont need anymore",
+  "price": "5",
+  "numRemaning": "1",
+  "rating": "0",
+  "imgSource": "https://runningmagazine.ca/wp-content/uploads/2020/03/gettyimages-1090985526-170667a.jpg",
+  "id": 6
+ },
+ {
+  "seller": "GameBoy_Seller",
+  "productName": "GameBoy",
+  "description": "An old gameboy",
+  "price": "10",
+  "rating": "3",
+  "imgSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gameboy-Advance-SP-Mk2.jpg/1200px-Gameboy-Advance-SP-Mk2.jpg",
+  "id": 7
+ },
+ {
+  "seller": "Cindy",
+  "productName": "Marble queen pathos",
+  "description": "A beautiful ",
+  "price": "20",
+  "rating": "3",
+  "imgSource": "https://s3.amazonaws.com/cdn.springhillnursery.com/images/800/75370A.jpg",
+  "id": 8
+ },
+ {
+  "seller": "Duc",
+  "productName": "Phone",
+  "description": "It is a good phone",
+  "price": "5000",
+  "rating": "3",
+  "imgSource": "https://guide-images.cdn.ifixit.com/igi/o4OjCNmNeOhvsS1P.large",
+  "id": 9
+ },
+ {
+  "seller": "Duc",
+  "productName": "House",
+  "description": "Big Fancy House",
+  "price": "2",
+  "rating": "3",
+  "imgSource": "https://pix10.agoda.net/hotelImages/9065853/-1/142d78192fda46d5b58e14c9d3f2fe51.jpg?s=1024x768",
+  "id": 10
+ }
+]
